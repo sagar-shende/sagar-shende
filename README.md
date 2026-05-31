@@ -39,6 +39,7 @@
 <h2 align="center">⚒ Languages • Tools • Technologies ⚒</h2>
 <br/>
 <div align="center">
+    ![DAX](https://img.shields.io/badge/DAX-Power_BI-F2C811?logo=powerbi)
     <img src="https://skillicons.dev/icons?i=python,vscode,github,git,html,css" /><br>
     <img src="https://skillicons.dev/icons?i=anaconda,mysql,powerbi,excel" /><br>
 </div>
