@@ -70,11 +70,9 @@
 <br/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-shende&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sagar-shende&theme=tokyonight&hide_border=true" />
-</div>
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shende&layout=compact&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api?username=sagar-shende&show_icons=true&theme=tokyonight" alt="Sagar's GitHub stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-shende&theme=tokyonight" alt="Sagar's GitHub streak" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shende&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <hr/>
