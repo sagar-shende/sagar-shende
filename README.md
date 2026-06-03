@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sagar+Shende!;+Data+Analyst+in+Making!;+Welcome+to+my+GitHub!" />
 </h1>
 
-<h3 align="center">🎓 BCCA Final Year | Aspiring Data Analyst from Nashik, India 🇮🇳</h3>
+<h3 align="center">🎓 BCCA Graduate | Aspiring Data Analyst from Wardha, Maharashtra 🇮🇳</h3>
 
 <br/>
 
@@ -46,7 +46,6 @@
 </div>
 
 <br/>
-
 <hr/>
 
 <h2 align="center">📂 Featured Projects</h2>
@@ -67,12 +66,15 @@
 <br/>
 <hr/>
 
+<h2 align="center">📈 GitHub Stats</h2>
+<br/>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=sagar-shende&show_icons=true&theme=tokyonight" alt="Sagar's GitHub stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sagar-shende&theme=tokyonight" alt="Sagar's GitHub streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=sagar-shende&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=sagar-shende&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shende&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sagar-shende&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <hr/>
