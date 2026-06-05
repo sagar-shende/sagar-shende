@@ -58,6 +58,7 @@
 | 📊 Excel Analytics Portfolio | Excel, Pivot Tables, VLOOKUP | [View Repo](https://github.com/sagar-shende/Excel-Analytics-Portfolio) |
 | 🗄️ HR Analytics MySQL | MySQL | [View Repo](https://github.com/sagar-shende/HR-Analytics-MySQL-50-Queries) |
 | 🤖 Loan Approval ML | Python, Scikit-learn | [View Repo](https://github.com/sagar-shende/loan-approval-prediction-using-machine-learning-project) |
+</div>
 
 <br/>
 <hr/>
