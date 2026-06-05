@@ -48,20 +48,16 @@
 <br/>
 <hr/>
 
-<h2 align="center">📂 Featured Projects</h2>
-<br/>
-
-<div align="center">
+## 📂 Featured Projects
 
 | 🗂️ Project | 🛠️ Tools | 🔗 Link |
 |---|---|---|
 | 🎬 Netflix Data Analysis | Python, Pandas, Seaborn, Matplotlib | [View Repo](https://github.com/sagar-shende/VOIS_AICTE_Oct2025_Major_Project_Netflix_data_analysis) |
-| 📊 HR Analytics Dashboard | Power BI, Excel | [View Repo](https://github.com/sagar-shende) |
-| 🛒 Ecommerce Sales Dashboard | Power BI | [View Repo](https://github.com/sagar-shende) |
-| 🎵 Spotify Dashboard | Power BI | [View Repo](https://github.com/sagar-shende) |
-| 🗄️ HR Analytics MySQL | MySQL | [View Repo](https://github.com/sagar-shende) |
-
-</div>
+| 📊 HR Analytics Dashboard | Power BI, Excel | [View Repo](https://github.com/sagar-shende/Data-analytics-with-Power-BI) |
+| 🛒 Ecommerce Sales Dashboard | Power BI | [View Repo](https://github.com/sagar-shende/Advanced-Ecommerce-Sales-Dashboard) |
+| 📊 Excel Analytics Portfolio | Excel, Pivot Tables, VLOOKUP | [View Repo](https://github.com/sagar-shende/Excel-Analytics-Portfolio) |
+| 🗄️ HR Analytics MySQL | MySQL | [View Repo](https://github.com/sagar-shende/HR-Analytics-MySQL-50-Queries) |
+| 🤖 Loan Approval ML | Python, Scikit-learn | [View Repo](https://github.com/sagar-shende/loan-approval-prediction-using-machine-learning-project) |
 
 <br/>
 <hr/>
